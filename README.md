@@ -7,7 +7,7 @@ sudo add-apt-repository ppa:openrazer/stable
 sudo apt-get update
 sudo apt-get upgrade
 ```
-### 1a. apabila terjadi error ikuti panduan dibawah ini
+## 1a. apabila terjadi error ikuti panduan dibawah ini
 #### Apparently it is related to the information that dpkg saves and it conflicts in the installation
 So wee needed move /var/lib/info/ and create new /var/lib/dpkg/info
 ```
