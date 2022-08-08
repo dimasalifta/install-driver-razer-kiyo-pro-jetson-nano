@@ -1,4 +1,6 @@
 # Tutorial install driver kiyo pro linux
+Ikuti tahap 1,2 dan 3
+apabila ada error di tahap 1 maka lakukan tahap 1a
 ## 1.Pertama kita harus menambahkan ppa repository razer
 ```
 sudo add-apt-repository ppa:openrazer/stable
