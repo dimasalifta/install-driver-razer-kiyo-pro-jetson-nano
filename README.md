@@ -1,6 +1,8 @@
 # Tutorial install driver kiyo pro linux
 
-'sudo add-apt-repository ppa:openrazer/stable'
+```
+sudo add-apt-repository ppa:openrazer/stable
+```
 'sudo apt-get update'
 'sudo apt-get upgrade'
 
