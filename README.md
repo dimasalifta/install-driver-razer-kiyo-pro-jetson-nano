@@ -4,7 +4,6 @@ Ikuti tahap 1,2 dan 3 secara berurut
 ```
 sudo add-apt-repository ppa:openrazer/stable
 sudo apt-get update
-sudo apt-get upgrade
 ```
 
 ## 2. Lalu install driver kamera razer
