@@ -8,10 +8,11 @@ sudo apt-get update
 
 ## 2. Lalu install driver kamera razer
 ```
-sudo apt-get upgrade -y
-sudo apt autoremove -y
 sudo apt install openrazer-meta -y
 sudo gpasswd -a $USER plugdev
+sudo apt-get upgrade -y
+sudo apt autoremove -y
+
 ```
 
 ## 3. terakhir cek apakah kamera razer kiyo pro sudah terbaca dengan menggunakan v4l2 utils
